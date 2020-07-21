@@ -4,7 +4,7 @@
 <a href="https://twitter.com/F0xBase"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/mrismanaziz"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/pwn.id"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/facebook.png?raw=true"></a>
-</p><br/>
+</p>
 <h3 align='center'> Programming Languages </h3>
 <p align="center">
  <img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/python2.png">
@@ -16,6 +16,5 @@
  <img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/sql.svg">
  <img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/git.png">
 </p>
-<center>
+
 ![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=mrismanaziz&hide=["issues"]&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=FE9419)
-</center>
