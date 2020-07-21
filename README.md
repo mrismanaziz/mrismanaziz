@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'> Hello there! My name is Muhamad Risman Aziz. 😎 </p>
+<p align='center'>
+<a href="https://twitter.com/F0xBase"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/mrismanaziz"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/pwn.id"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/facebook.png?raw=true"></a>
+</p><br/>
+<h3 align='center'> Programming Languages </h3>
+<p align="center">
+ <img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/python2.png">
+ <img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/html.svg">
+ <img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/css.svg">
+ <img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/js.svg">
+ <img height="33" src="https://github.com/dandyraka/dandyraka/blob/master/images/bootstrap.svg">
+ <img height="40" src="https://github.com/dandyraka/dandyraka/blob/master/images/php.svg">
+ <img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/sql.svg">
+ <img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/git.png">
+</p>
+<p>
+ <img align='right' src='https://github.com/dandyraka/dandyraka/blob/master/images/cat_coding.gif' width='160"'>
+</p>
 
-<!--
-**mrismanaziz/mrismanaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=mrismanaziz&hide=["issues"]&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=FE9419)
