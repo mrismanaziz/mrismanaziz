@@ -1,5 +1,4 @@
 # Hi there 👋 , I'm Muhamad Risman Aziz!
-Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer. 
 
 ### Tools:
 <p>
@@ -28,9 +27,9 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 ### Let's connect!
 <p>
     <a href="https://mrismanaziz.my.id" target="blank"><img src="https://img.shields.io/badge/Website-https://mrismanaziz.my.id-green?" /></a>
-    <a href="https://www.linkedin.com/in/mrismanaziz" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@F0xBase" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://https://twitter.com/mrismanaziz" target="blank"><img src="https://img.shields.io/badge/@bagusfedotid-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://www.linkedin.com/in/mrismanaziz" target="blank"><img src="https://img.shields.io/badge/Muhamad_Risman_aziz-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://medium.com/@F0xBase" target="blank"><img src="https://img.shields.io/badge/Muhamad_Risman_Aziz-30302f?style=flat&logo=medium" /></a>
+    <a href="https://https://twitter.com/mrismanaziz" target="blank"><img src="https://img.shields.io/badge/@mrismanaziz-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.paypal.me/pwn.id" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
