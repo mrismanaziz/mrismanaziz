@@ -22,3 +22,16 @@
     <a href="https://instagram.com/mrismanaziz_" target="blank"><img src="https://img.shields.io/badge/@mrismanaziz-30302f?style=flat&logo=instagram" /></a>
     <a href="https://twitter.com/mrismanaziz" target="blank"><img src="https://img.shields.io/badge/@mrismanaziz-30302f?style=flat&logo=twitter" /></a>
 </p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/mrismanaziz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+</details>
