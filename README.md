@@ -16,12 +16,12 @@
 
 ### My Social Media and Personal Website
 <p>
-    <a href="http://www.mrismanaziz.my.id/" target="blank"><img src="https://img.icons8.com/nolan/96/domain.png" /></a>
-    <a href="https://facebook.com/pwn.id" target="blank"><img src="https://img.icons8.com/nolan/96/facebook-new.png" /></a>
-    <a href="https://mrismanaziz.medium.com/" target="blank"><img src="https://img.icons8.com/nolan/96/medium-new.png" /></a>
-    <a href="https://t.me/mrismanaziz" target="blank"><img src="https://img.icons8.com/nolan/96/telegram-app.png" /></a>
-    <a href="https://instagram.com/mrismanaziz_" target="blank"><img src="https://img.icons8.com/nolan/96/instagram-new.png" /></a>
-    <a href="https://twitter.com/mrismanaziz" target="blank"><img src="https://img.icons8.com/nolan/96/twitter.png" /></a>
+    <a href="http://www.mrismanaziz.my.id/" target="blank"><img src="https://img.icons8.com/nolan/80/domain.png" /></a>
+    <a href="https://facebook.com/pwn.id" target="blank"><img src="https://img.icons8.com/nolan/80/facebook-new.png" /></a>
+    <a href="https://mrismanaziz.medium.com/" target="blank"><img src="https://img.icons8.com/nolan/80/medium-new.png" /></a>
+    <a href="https://t.me/mrismanaziz" target="blank"><img src="https://img.icons8.com/nolan/80/telegram-app.png" /></a>
+    <a href="https://instagram.com/mrismanaziz_" target="blank"><img src="https://img.icons8.com/nolan/80/instagram-new.png" /></a>
+    <a href="https://twitter.com/mrismanaziz" target="blank"><img src="https://img.icons8.com/nolan/80/twitter.png" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
