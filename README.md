@@ -14,15 +14,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mrismanaziz&hide=issues&show_icons=true&hide_border=true&title_color=000" />
 </p>
 
-### My Social Media and Personal Website
+### My Social Media
 <p>
-    <a href="http://www.mrismanaziz.my.id/" target="blank"><img src="https://img.icons8.com/nolan/55/domain.png" /></a>
     <a href="https://facebook.com/pwn.id" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
     <a href="https://mrismanaziz.medium.com/" target="blank"><img src="https://img.icons8.com/nolan/55/medium-new.png" /></a>
     <a href="https://t.me/mrismanaziz" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
     <a href="https://instagram.com/mrismanaziz_" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
     <a href="https://twitter.com/mrismanaziz" target="blank"><img src="https://img.icons8.com/nolan/55/twitter.png" /></a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
@@ -36,3 +36,4 @@
 ![Metrics](https://metrics.lecoq.io/mrismanaziz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
