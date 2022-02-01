@@ -9,12 +9,12 @@
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
 
-### Stats:
+### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=mrismanaziz&hide=issues&show_icons=true&hide_border=true&title_color=000" />
 </p>
 
-### My Social Media
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Social Media
 <p>
     <a href="https://facebook.com/pwn.id" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
     <a href="https://mrismanaziz.medium.com/" target="blank"><img src="https://img.icons8.com/nolan/55/medium-new.png" /></a>
