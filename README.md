@@ -1,4 +1,5 @@
-# ʜɪ ᴛʜᴇʀᴇ 👋 , ɪ'ᴍ ʀɪsᴍᴀɴ
+![Header](https://raw.githubusercontent.com/mrismanaziz/mrismanaziz/refs/heads/master/github-header-banner.png)
+
 
 ### ᴛᴏᴏʟs:
 <p>
